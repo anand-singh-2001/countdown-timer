@@ -54,7 +54,7 @@ function App() {
     setMin(0);
     setSec(0);
     setRunning(false);
-    setValue(0);
+    setValue("");
   };
 
   return (
