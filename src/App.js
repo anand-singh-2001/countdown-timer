@@ -96,7 +96,7 @@ function App() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          fontWeight: "700",
+          fontWeight: "900",
           fontSize: "25px",
         }}>
         {!running ? (
